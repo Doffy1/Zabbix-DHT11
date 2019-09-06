@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>4.2</version>
-    <date>2019-09-06T10:46:38Z</date>
+    <date>2019-09-06T11:06:54Z</date>
     <groups>
         <group>
             <name>DHT sensors</name>
@@ -24,7 +24,7 @@
             </applications>
             <items>
                 <item>
-                    <name>sensor 1 control</name>
+                    <name>sensor 1 query schedule</name>
                     <type>0</type>
                     <snmp_community/>
                     <snmp_oid/>
