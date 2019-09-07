@@ -18,7 +18,7 @@ Collect temperature and humidity data from DHT11 sensor connected to RPi.
 6. Load the <tt>DHT_sensors_template.xml</tt> in Zabbix server and
     - change in query schedule item the <tt>zabbix.mydomain.hu</tt> string to your Zabbix server name
     - change Humidity and Temperature items alloved hosts value to your RPi (registered in Zabbix) name
- and assign template to RPi.
+    - and assign template to RPi.
 7. Enjoy!
 
 <b>Tested environment:</b><br>
